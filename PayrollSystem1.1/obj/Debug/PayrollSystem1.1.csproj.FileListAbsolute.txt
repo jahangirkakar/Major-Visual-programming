@@ -1,0 +1,246 @@
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\PayrollSystem1.1.exe.config
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\PayrollSystem1.1.exe
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\PayrollSystem1.1.pdb
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.Form1.resources
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.Properties.Resources.resources
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.GenerateResource.Cache
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.exe
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.pdb
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmEmployee.resources
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\MySql.Data.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\Google.Protobuf.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\MySql.Data.xml
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmPayroll.resources
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmUser.resources
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\CrystalDecisions.ReportSource.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\CrystalDecisions.Shared.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\FlashControlV71.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\ShockwaveFlashObjects.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\bin\Debug\stdole.dll
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmReport.resources
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csprojResolveAssemblyReference.cache
+c:\users\win10\documents\visual studio 2015\Projects\PayrollSystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmLogin.resources
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\PayrollSystem1.1.exe.config
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\PayrollSystem1.1.exe
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\PayrollSystem1.1.pdb
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\Google.Protobuf.dll
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.dll
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Hash.xxHash.dll
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\MySql.Data.dll
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Buffers.dll
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.IO.Pipelines.dll
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Memory.dll
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Numerics.Vectors.dll
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\BouncyCastle.Crypto.xml
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\Google.Protobuf.pdb
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\Google.Protobuf.xml
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.xml
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Hash.xxHash.xml
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\MySql.Data.xml
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Buffers.xml
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.IO.Pipelines.xml
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Memory.xml
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Numerics.Vectors.xml
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.AssemblyReference.cache
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.SuggestedBindingRedirects.cache
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.Form1.resources
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmEmployee.resources
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmLogin.resources
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmPayroll.resources
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmReport.resources
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmUser.resources
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.Properties.Resources.resources
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.GenerateResource.cache
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.CoreCompileInputs.cache
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.CopyComplete
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.exe
+D:\Development\VisualProgramming\Major\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.pdb
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\PayrollSystem1.1.exe.config
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\PayrollSystem1.1.exe
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\PayrollSystem1.1.pdb
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\Google.Protobuf.dll
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\MySql.Data.dll
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Buffers.dll
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Memory.dll
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\Google.Protobuf.pdb
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\Google.Protobuf.xml
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\MySql.Data.xml
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Buffers.xml
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Memory.xml
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.AssemblyReference.cache
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.Form1.resources
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmEmployee.resources
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmLogin.resources
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmPayroll.resources
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmReport.resources
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmUser.resources
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.Properties.Resources.resources
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.GenerateResource.cache
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.CoreCompileInputs.cache
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.CopyComplete
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.exe
+C:\Users\l\Desktop\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.pdb
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\PayrollSystem1.1.exe.config
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\PayrollSystem1.1.exe
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\PayrollSystem1.1.pdb
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\BouncyCastle.Crypto.dll
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\Google.Protobuf.dll
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.dll
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Hash.xxHash.dll
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\MySql.Data.dll
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Buffers.dll
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.IO.Pipelines.dll
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Memory.dll
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Numerics.Vectors.dll
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\BouncyCastle.Crypto.xml
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\Google.Protobuf.pdb
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\Google.Protobuf.xml
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.xml
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Hash.xxHash.xml
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\MySql.Data.xml
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Buffers.xml
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.IO.Pipelines.xml
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Memory.xml
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Numerics.Vectors.xml
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.AssemblyReference.cache
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.SuggestedBindingRedirects.cache
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.Form1.resources
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmEmployee.resources
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmLogin.resources
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmPayroll.resources
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmReport.resources
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmUser.resources
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.Properties.Resources.resources
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.GenerateResource.cache
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.CoreCompileInputs.cache
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.CopyComplete
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.exe
+D:\payroll\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.pdb
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\PayrollSystem1.1.exe.config
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\PayrollSystem1.1.exe
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\PayrollSystem1.1.pdb
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\BouncyCastle.Crypto.dll
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\Google.Protobuf.dll
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.dll
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Hash.xxHash.dll
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\MySql.Data.dll
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Buffers.dll
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.IO.Pipelines.dll
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Memory.dll
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Numerics.Vectors.dll
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\BouncyCastle.Crypto.xml
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\Google.Protobuf.pdb
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\Google.Protobuf.xml
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.xml
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Hash.xxHash.xml
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\MySql.Data.xml
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Buffers.xml
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.IO.Pipelines.xml
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Memory.xml
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Numerics.Vectors.xml
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.AssemblyReference.cache
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.SuggestedBindingRedirects.cache
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.Form1.resources
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmEmployee.resources
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmLogin.resources
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmPayroll.resources
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmReport.resources
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmUser.resources
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.Properties.Resources.resources
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.GenerateResource.cache
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.CoreCompileInputs.cache
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.CopyComplete
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.exe
+D:\New folder (5)\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.pdb
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\PayrollSystem1.1.exe.config
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\PayrollSystem1.1.exe
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\PayrollSystem1.1.pdb
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\Google.Protobuf.dll
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\MySql.Data.dll
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Buffers.dll
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Memory.dll
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\Google.Protobuf.pdb
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\Google.Protobuf.xml
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\MySql.Data.xml
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Buffers.xml
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Memory.xml
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.AssemblyReference.cache
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.Form1.resources
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmEmployee.resources
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmLogin.resources
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmPayroll.resources
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmReport.resources
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.frmUser.resources
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1._1.Properties.Resources.resources
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.GenerateResource.cache
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.CoreCompileInputs.cache
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.csproj.CopyComplete
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.exe
+C:\Users\l\Desktop\jahangir\payrollsystem1.1\PayrollSystem1.1\obj\Debug\PayrollSystem1.1.pdb
